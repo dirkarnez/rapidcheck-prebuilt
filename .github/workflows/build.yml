@@ -29,7 +29,7 @@ jobs:
     env:
       libraryName: rapidcheck
       cmakeInstallationPath: rapidcheck-installation
-      tagName: c1c91f40e64d87869250cfb610376c629307bf77d
+      tagName: 1c91f40e64d87869250cfb610376c629307bf77d
     steps:
     
       - uses: actions/checkout@v4
